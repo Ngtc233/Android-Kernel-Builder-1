@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/SlackerState/android_kernel_xiaomi_sm6150",
-      "branch": "phoenix-r-oss",
-      "device": "phoenix_ztc1997"
+      "repo": "https://codeberg.org/TipzTeam/android_kernel_oppo_msm8937",
+      "branch": "lineage-22.1",
+      "device": "R9s"
     },
     "isConfiginvendor":true,
     "withKernelSU": true,
